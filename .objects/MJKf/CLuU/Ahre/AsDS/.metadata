@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Playlists",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "AsDSe9FxrkuLQjYXV2Gdug",
+  "Reference": "vC-pVAo6QEip3pYko4-4UQ/AsDSe9FxrkuLQjYXV2Gdug",
+  "ParentRef": "vC-pVAo6QEip3pYko4-4UQ/AhremvFLY0WXpgvSy7Ba9w",
+  "Created": "2025-08-13T09:54:15.3693195Z",
+  "Updated": "2025-08-13T09:54:15.3693195Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

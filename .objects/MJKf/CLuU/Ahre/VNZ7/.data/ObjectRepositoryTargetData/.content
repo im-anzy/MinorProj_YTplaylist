@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lMHCDGBCe0KA9HlnNEKa5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com" CVScreenId="8b206663-77c0-492c-88c3-788ff0bd8c65" CvElementArea="46, 588, 37, 37" CvType="Icon" DesignTimeRectangle="47, 588, 36, 36" FullSelectorArgument="&lt;webctrl idx='4' parentid='icon' tag='DIV' /&gt;" Guid="3a36059f-7ab4-4a3a-845f-f7af657dd725" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAItSURBVFhH7ZbbrQIxDETpgEqohEqohEqoZCuhkkXzMdJo8Cvs1RUfWBqxbBLn2ImTPZ3P5/2bdfIX36Yf4FH9AI/qEODtdtsfj8e+bdv+fD53Gp7x7n6/79fr9W3cij4CxMQKNDEEc7lc3nx1WgJENhyMmQIAhD74jYLAf7S530pjQEyohqWdZATA6Kuw8OX9Mo0AkSUanidgLoxRP1PIFlAzN3VaadVfCYjloWGZvF37cRlZwVX1KmS3J0tAGib0NgpgmVUZ4nIjoGrLpIAaZeZAM4wJWcW617IMwScLpwokBaRVg2nR8jNAQHib94F5GxUCIjpalj3t422QZjfzMekTAk6i75xrAFXBdMscAnIPZYMoOo/2mQbgbSoWWVaIIWAXFUXnXolePD5OheDow9ugEJBWLQ2klUgY/Z9NquoyHQJWS+fyK4w2vRIJmAVzGJDCRNgSq59VHy3xtEj+Qjwxsr0aAnaVpeJXte9F3sddNrtkhIDdGQdxaToDeLbsk7MyBISqo8aLAhnUL2qM8YrGO4ecXAgpoN6T6ljhukoFrH7taH/NXpQEKgWEmAF+3it05dQVjWOgVfagElAdayZW4Dpf2d6jSkB3DOsirqR7EjYJtAWENGJMUu27TMiU71/vE2kECHkmuwKhoqtwkjlqDAjhGPFl4qGMSZEl9MGzH94w/O/2nGsJkAKAT97ZStZUHwFSfigTGr94hyyuZsx1CPA/9AM8qq8HfAHHXKKBLKUxygAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='YouTube' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e14de72d9b6fe776c48dc403f7f6b817.png" xmlns="">0sOkod9Vl80KPcW0v7lKlUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

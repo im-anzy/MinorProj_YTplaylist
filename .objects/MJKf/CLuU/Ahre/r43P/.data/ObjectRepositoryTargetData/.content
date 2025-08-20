@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="u6ztocYwDky6RAtWQl5a2A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/feed/you" DesignTimeRectangle="167, 494, 1705, 54" FullSelectorArgument="&lt;webctrl id='rich-shelf-header' idx='4' tag='DIV' /&gt;" Guid="af2e984f-127e-4f24-9da3-b5c68e3e9b07" ScopeSelectorArgument="&lt;html app='chrome.exe' title='YouTube' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e766595867d8869706312384ef2d62b0.png" xmlns="">07BG2wJFnH02ORNTAHq6vWg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

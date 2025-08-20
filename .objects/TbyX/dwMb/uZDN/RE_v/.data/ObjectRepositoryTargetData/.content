@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LfFs2pNPgUKsSsXxA4eSAw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/@ANSHIKAPANDEY-e3b" CVScreenId="65e132ff-dee4-4bac-a017-def6630ec110" CvTextArea="210, 677, 120, 19" CvTextArgument="Focus Music" CvType="Text" DesignTimeRectangle="211, 674, 119, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-role='text' parentid='items' tag='SPAN' /&gt;" Guid="370d580c-1dbd-46e4-990a-216307469af5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ANSHIKA PANDEY - YouTube' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="211, 483, 315, 177" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='items' tag='IMG' /&gt;" Guid="52f28093-932a-498c-ba84-68841f5f18dd" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="161424b279fd58a90b70ced0e85002f8.png" xmlns="">09r7NIR1JwkaCi53p6jMHTQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

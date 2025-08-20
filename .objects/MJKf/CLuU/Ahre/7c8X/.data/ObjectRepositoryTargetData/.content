@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gsT6l7zlrEGP1eTIetipNg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com" CVScreenId="67015e24-314e-4957-8cb5-185b197b5e43" CvElementArea="182, 76, 1542, 56" CvType="InputBox" DesignTimeRectangle="246, 87, 1370, 37" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='YouTube - Google Chrome – ANSHIKA (kiit.ac.in)' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="a7c54959-2764-4a15-97d0-31d84189461a" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='YouTube - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="67015e24-314e-4957-8cb5-185b197b5e43" CvTextArea="243, 95, 124, 24" CvTextArgument="youtube.com" CvType="Text" DesignTimeRectangle="191, 80, 1539, 51" FuzzySelectorArgument="&lt;ctrl name='YouTube - Google Chrome – ANSHIKA (kiit.ac.in)' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl automationid='' role='grouping' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:fulltext='youtube.com' /&gt;" Guid="31983a9b-a900-4bb0-b51a-c5afd34352a5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9ac61348b588e7b935e78565e0457591.png" xmlns="">0a_W5JAXCfk26nptYdBq71g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dqwSDBU4L0qb_ATVT44dlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="be8b77c2-db7c-43b1-908a-44c14a952799" CvElementArea="181, 76, 1540, 56" CvType="InputBox" DesignTimeRectangle="246, 87, 1418, 37" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='New tab - Google Chrome – ANSHIKA (kiit.ac.in)' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="7519e2ff-7376-4707-b472-2873a4b39b3e" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New tab - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="191, 80, 1539, 51" FullSelectorArgument="&lt;ctrl name='New tab - Google Chrome – ANSHIKA (kiit.ac.in)' role='pane' /&gt;&lt;ctrl idx='3' role='grouping' /&gt;" Guid="55335011-0092-4a91-94d6-69d49c832482" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9df08f0626237b7343de305f02b6eed3.png" xmlns="">02ipHel1eMUe527IZgvxqSg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

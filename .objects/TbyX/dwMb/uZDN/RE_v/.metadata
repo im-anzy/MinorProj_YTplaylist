@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Focus Music",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "RE_vmBFAQUOBcW0InUeAHQ",
+  "Reference": "vC-pVAo6QEip3pYko4-4UQ/RE_vmBFAQUOBcW0InUeAHQ",
+  "ParentRef": "vC-pVAo6QEip3pYko4-4UQ/uZDNlrIyJE-e0p-yEyf3DQ",
+  "Created": "2025-08-13T09:36:27.713656Z",
+  "Updated": "2025-08-13T09:36:27.713656Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

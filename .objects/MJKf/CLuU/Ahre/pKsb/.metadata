@@ -1,0 +1,14 @@
+﻿{
+  "Name": "View your channel",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "pKsbrCpz_kmc87t0og2jsw",
+  "Reference": "vC-pVAo6QEip3pYko4-4UQ/pKsbrCpz_kmc87t0og2jsw",
+  "ParentRef": "vC-pVAo6QEip3pYko4-4UQ/AhremvFLY0WXpgvSy7Ba9w",
+  "Created": "2025-08-13T09:53:36.7245982Z",
+  "Updated": "2025-08-13T09:53:36.7245982Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

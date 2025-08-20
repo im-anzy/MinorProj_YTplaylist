@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7MlnFRh4pEes3hK_pB_nGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/feed/you" CVScreenId="5aef1f75-49a6-47a7-93b7-afa05c16b0da" CvTextArea="165, 474, 1551, 33" CvTextArgument="History View all" CvType="Text" DesignTimeRectangle="167, 462, 1705, 54" FullSelectorArgument="&lt;webctrl id='rich-shelf-header' idx='3' tag='DIV' /&gt;" Guid="bab1fe65-31ae-4166-a0be-9f84b823f231" ScopeSelectorArgument="&lt;html app='chrome.exe' title='YouTube' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="01a1d76a9d9e765e0a952bf3e9e161ac.png" xmlns="">0rjnOAgsmf0-8q4ZlZA0oLw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V7swsSIWlU-LQPA6JHdfUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/watch" CVScreenId="7a8cb8dd-17b3-42a0-b289-66da93f24c0c" CvTextArea="108, 959, 787, 32" CvTextArgument="Deep Focus - Music For Studying, Concentration and Work" CvType="Text" DesignTimeRectangle="110, 955, 784, 37" FullSelectorArgument="&lt;webctrl parentid='title' tag='YT-FORMATTED-STRING' /&gt;" Guid="8e07ae7b-3795-4cad-bb92-37bcc6b6d705" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Deep Focus - Music For Studying, Concentration and Work - YouTube' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7a8cb8dd-17b3-42a0-b289-66da93f24c0c" CvElementArea="216, 879, 39, 41" CvType="ArrowButton" DesignTimeRectangle="206, 863, 60, 72" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-label='Play keyboard shortcut k' tag='BUTTON' /&gt;" Guid="31ae4b85-4af7-4471-a6ea-2dd2b116eb6c" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="82d64018a5935fcd463af0476dba7067.png" xmlns="">02z-dRzrPRkiQxPVGVQ6wHQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

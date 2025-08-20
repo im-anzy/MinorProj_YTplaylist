@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WSJaqwVIzkmb6gKFpKIi2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com" CVScreenId="658af95b-b8f1-4d1e-b1c6-9b7d1c189c79" CvElementArea="183, 76, 1539, 56" CvType="InputBox" DesignTimeRectangle="246, 87, 1370, 37" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='YouTube - Google Chrome – ANSHIKA (kiit.ac.in)' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="966827c2-fe60-4864-9acb-b73a36989088" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='YouTube - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0342ad1b7bae2e72eece7b519b4fed63.png" xmlns="">0Din3O4gb4ka2MS6bEtmf9A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

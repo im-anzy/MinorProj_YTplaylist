@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a8cUQp4gqUm3hFW8Mb1oew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com" CVScreenId="7d1cd7d9-175e-4c9c-a821-ab5db7466a9d" CvTextArea="1449, 342, 171, 20" CvTextArgument="View your channel" CvType="Text" DesignTimeRectangle="1452, 338, 172, 30" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='manage-account' tag='A' /&gt;" Guid="6e0b13bb-fcbc-4900-ac68-4a08c2cc1102" ScopeSelectorArgument="&lt;html app='chrome.exe' title='YouTube' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1344, 236, 450, 157" FuzzySelectorArgument="&lt;webctrl tag='YTD-ACTIVE-ACCOUNT-HEADER-RENDERER' type='' class='style-scope ytd-multi-page-menu-renderer' aaname='  ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='ANSHIKA PANDEY&amp;#xA;@ANSHIKAPANDEY-e3b&amp;#xA;View your channel' /&gt;" Guid="01a43ad3-b630-4968-a32b-dff3f588ac2c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3ac666beddccc1dc1a077d72b9eda3de.png" xmlns="">0cCYEndY3YUGPy_MhdBNsQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

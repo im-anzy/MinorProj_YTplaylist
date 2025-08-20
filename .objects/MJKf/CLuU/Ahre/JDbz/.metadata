@@ -1,0 +1,14 @@
+﻿{
+  "Name": "IMG img",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "JDbzY-xtw0CHr4Zg14T7ig",
+  "Reference": "vC-pVAo6QEip3pYko4-4UQ/JDbzY-xtw0CHr4Zg14T7ig",
+  "ParentRef": "vC-pVAo6QEip3pYko4-4UQ/AhremvFLY0WXpgvSy7Ba9w",
+  "Created": "2025-08-13T09:52:56.260148Z",
+  "Updated": "2025-08-13T09:52:56.260148Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O8KRNk6VJEeb73yOuqvApA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/watch" CVScreenId="0fba85ef-022b-441c-82e2-8509c60b406e" CvElementArea="153, 872, 37, 40" CvType="ArrowButton" DesignTimeRectangle="143, 856, 60, 72" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-label='Play keyboard shortcut k' tag='BUTTON' /&gt;" Guid="cf382008-c81f-40c3-9833-8578f87fb5f0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Deep Focus - Music For Studying, Concentration and Work - YouTube' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a4200051d51ff323486cfeaf1b7eddec.png" xmlns="">0bo-hswWXHUKK55cs-YOZ7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

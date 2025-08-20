@@ -1,0 +1,14 @@
+﻿{
+  "Name": "youtube.com",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "7c8XvRvIz0K7FqP6gBgwrw",
+  "Reference": "vC-pVAo6QEip3pYko4-4UQ/7c8XvRvIz0K7FqP6gBgwrw",
+  "ParentRef": "vC-pVAo6QEip3pYko4-4UQ/AhremvFLY0WXpgvSy7Ba9w",
+  "Created": "2025-08-13T09:51:48.0384312Z",
+  "Updated": "2025-08-13T09:51:48.0384312Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

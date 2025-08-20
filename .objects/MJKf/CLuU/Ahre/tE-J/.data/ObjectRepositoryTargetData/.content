@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yubPqmudSEWbnFK9Rn3emg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/@ANSHIKAPANDEY-e3b" DesignTimeRectangle="211, 765, 315, 177" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl parentid='items' tag='IMG' type='' class='yt-core-image yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded' aaname='3 videos' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ae92fe90-8832-4153-aeba-e1d71428ba85" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ANSHIKA PANDEY - YouTube' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="411f8637-5cc5-4b57-86a4-42bd78d7fa83" CvTextArea="209, 959, 117, 19" CvTextArgument="FocusMusic" CvType="Text" DesignTimeRectangle="211, 956, 114, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-role='text' parentid='items' tag='SPAN' type='' class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' aaname='FocusMusic' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='FocusMusic' /&gt;" Guid="0ccd4032-4ac5-4ec1-ba7a-bdd82ae3cee6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="62755bc2e2be2059d050e3af4df804d5.png" xmlns="">0M8Omhrrd-USfMrX5X4km3g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

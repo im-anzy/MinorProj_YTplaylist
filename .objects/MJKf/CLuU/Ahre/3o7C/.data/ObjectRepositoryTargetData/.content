@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SyKDhWlL_ECiayqbUVrpzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/feed/playlists" DesignTimeRectangle="155, 408, 411, 231" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl aaname='3 videos' parentid='content' tag='IMG' type='' class='yt-core-image yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="03b41110-d070-4a2a-b4e7-5ee57baa1d52" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Playlists - YouTube' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="52049c41-fd5b-4615-9b6d-5031206bef89" CvTextArea="153, 662, 132, 22" CvTextArgument="FocusMusic" CvType="Text" DesignTimeRectangle="155, 657, 166, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='yt-lockup-metadata-view-model-wiz__heading-reset' type='' parentid='content' tag='H3' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='FocusMusic' /&gt;" Guid="27309c70-835f-4b32-ba9c-0d1dd36a0a7b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="92268f5ba0cd578b9b559db6e77ef624.png" xmlns="">0wNMv4F0ePEK918Ai7Hm6NA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

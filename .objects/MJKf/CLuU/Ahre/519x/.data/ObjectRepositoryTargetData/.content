@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KNUUNri7lEq_d7FoKGGYqg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/feed/you" CVScreenId="fa214e56-79b8-432c-9075-fdc55cf957c1" CvTextArea="165, 1004, 117, 34" CvTextArgument="Playlists" CvType="Text" DesignTimeRectangle="167, 999, 115, 42" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Playlists' id='title' tag='SPAN' /&gt;" Guid="7064e5d3-123e-4178-b643-9a9e5019fc5c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='YouTube' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="81f2d58aba7398d8de58c07f813667e1.png" xmlns="">0FlqKmdHpK0GX8biUfOxL8A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
